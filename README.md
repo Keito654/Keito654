@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and frontend develops.
 - 🌱 I’m currently learning Typescript, React and English.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email at 'keito19981129@gmail.com'.
+- 📫 How to reach me Twitter at '@YrGcj'.
 
 <!---
 Keito654/Keito654 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
